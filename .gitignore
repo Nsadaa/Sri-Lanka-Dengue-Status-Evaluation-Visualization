@@ -1,4 +1,3 @@
-venv/*
-.Dengue_Data/*
-.Adobe_ID_File/*
-.Cleaned_Data_Dengue_Cases.csv
+Dengue_Data/*
+Adobe_ID_File/*
+Cleaned_Data_Dengue_Cases.csv
