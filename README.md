@@ -1,4 +1,4 @@
-# Sri Lanka Dengue Trend Anlysis Visualization & Forecasting
+# Sri Lanka Dengue Status Evaluation & Visualization
 
 ### Introduction
 - Sri Lanka Dengue Trend ( 2010 -2020 ) Time Series Analysis &amp; Visualization In Python Using Jypyter Notebook
