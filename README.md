@@ -1,8 +1,7 @@
 # Sri Lanka Dengue Status Evaluation & Visualization
 
 ### Introduction
-- Sri Lanka Dengue Trend ( 2010 -2020 ) Time Series Analysis &amp; Visualization In Python Using Jypyter Notebook
-- Click  [Here](https://github.com/Nsadaa/Sri-Lanka-Dengue-Trend-Anlysis-Visualization/blob/main/Sri%20Lanka%20Dengue%20Cases%20Data%20Analysis%20&%20Visualization/Sri%20Lanka%20Dengue%20Cases%20Data%20Analysis%20&%20Visualization.md)
+Sri Lanka Dengue Trend ( 2010 -2020 ) Time Series Analysis &amp; Visualization In Python Using Jypyter Notebook
 To View Markdown Version File 
 
 ### Objectives
@@ -18,10 +17,9 @@ To View Markdown Version File
 - There Are Two Features : 1)Year , 2) Month , 3) Number Of Dengue Cases                                
                                                                       
 ### Technology
-- Python programming Lnaguage : Pandas | Numpy | Matplotlib | Seaborn | Scikit Learn | Satistics Models
+- Python programming Language : Pandas | Numpy | Matplotlib | Seaborn | Scikit Learn | Satistics Models | Kepler.gl | Plotly | fbprophet
 - Jupyter Notebook
 
 ### Resources
 - https://pypi.org/
 - https://www.epid.gov.lk/web/
-- https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
