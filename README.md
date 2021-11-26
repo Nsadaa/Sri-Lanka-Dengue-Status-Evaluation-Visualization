@@ -9,7 +9,7 @@ To View Markdown Version File
 - Gain Insights From The Data
 - Visualize Insights From The Data
 - Identify The Time Series Trend In The Dataset
-- Forecast The Future Data Using Apprpriate Time Series Model.
+- Forecast The Future Data Using fbprophet Model.
 
 ### About Data
 - Dataset Include data from 2010 to 2020 which collected Srilanka Goverment Website ( Check References )
