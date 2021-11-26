@@ -11,7 +11,7 @@ This is a exploratory data analysis & visualization project about sri lanka deng
 - Figures & Data Insights(Visualizations) as a PDF :[Click Here](https://github.com/Nsadaa/Sri-Lanka-Dengue-Status-Evaluation-Visualization/blob/main/Report/Report.pdf)
 - Tableau Workbook :[Click Here](https://github.com/Nsadaa/Sri-Lanka-Dengue-Status-Evaluation-Visualization/tree/main/Tableau%20Workbook)
 
-*Make sure to run this jupyter notebook file in google colab for better result & less effort for*
+*Make sure to run this jupyter notebook file in google colab for better result & less effort for, if run in localy make sure to install all the dependencies mentioned in the "requirement.txt" file*
 
 ## Objectives
 
