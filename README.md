@@ -7,7 +7,7 @@
 This is a exploratory data analysis & visualization project about sri lanka dengue status from 2010 to 2020 & and also include the forecasting of dengue cases for the future 2 years. In here mainly used python, tableau for the data analysis & visualization process and also used fbprophet model as the procedure for forecasting .By this, here we able to get better insights about how dengue outbreak spreaded in sri lanka.
 
 - Interactive Tableau Dashboard :[Click Here](https://public.tableau.com/app/profile/nilshan.sadaruwan/viz/EvaluationVisualizationofDengueCasesinSriLanka/Viz)
-- jupyter Notebook :[Click Here](https://github.com/Nsadaa/Sri-Lanka-Dengue-Status-Evaluation-Visualization/blob/main/Data_Analysis_%26_Forecasting_of_Dengue_Cases_In_Sri_Lanka.ipynb)
+- jupyter Notebook :[Click Here](https://github.com/Nsadaa/Sri-Lanka-Dengue-Status-Evaluation-Visualization/blob/main/Data_Analysis_%26_Forecasting_of_Dengue_Cases_In_Sri_Lanka.ipynb) ( *plotly & kepler.gl figures not shown in the the github so you need to run the notbook file* )
 - Figures & Data Insights(Visualizations) as a PDF :[Click Here](https://github.com/Nsadaa/Sri-Lanka-Dengue-Status-Evaluation-Visualization/blob/main/Report/Report.pdf)
 - Tableau Workbook :[Click Here](https://github.com/Nsadaa/Sri-Lanka-Dengue-Status-Evaluation-Visualization/tree/main/Tableau%20Workbook)
 
